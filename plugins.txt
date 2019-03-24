@@ -107,3 +107,4 @@ sonar:latest
 generic-webhook-trigger:latest
 webhook-step:latest
 http_request:latest
+authorize-project:latest
