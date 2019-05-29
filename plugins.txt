@@ -109,3 +109,4 @@ webhook-step:latest
 http_request:latest
 authorize-project:latest
 docker-swarm:latest
+uno-choice:latest
